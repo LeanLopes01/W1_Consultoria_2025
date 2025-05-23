@@ -10,7 +10,7 @@ Hackathon W1 Consultoria 2025 🎉
 
     Objetivo: Construir um site de consultoria patrimonial completo e intuitivo para usuários finais, integrando front-end e back-end em uma solução unificada.
 
-Nossa equipe participou com muita energia e criatividade, colocando em prática as melhores práticas de desenvolvimento para entregar um produto 99% funcional e de alta qualidade.
+Nossa equipe participou com muita energia e criatividade, colocando em prática as melhores práticas de desenvolvimento para entregar um produto 90% funcional e de alta qualidade.
 Equipe 🚀
 
 Nossa equipe foi composta por:
@@ -54,21 +54,19 @@ Para executar o projeto localmente, siga os passos abaixo:
 
     Banco de Dados:
 
-        Crie um banco de dados no MySQL (ex: w1_consultoria).
-
-        Importe o arquivo SQL database.sql (disponível na pasta db/) para criar as tabelas necessárias.
+        Crie um banco de dados no MySQL (ex: site_w1).
 
     Execute o back-end:
 
-        As páginas PHP serão executadas automaticamente pelo servidor local (abra http://localhost/index.php no navegador).
+        As páginas PHP serão executadas automaticamente pelo servidor local (abra http://localhost/index.html no navegador).
 
-        Caso existam scripts Python auxiliares (na pasta python/), certifique-se de ter o Python instalado e execute-os conforme instruções internas.
+        Para o python precisa das seguintes bibliotecas: pip install mysql-connector-python yfinance schedule
 
     Acesse o site:
 
         Navegue até http://localhost no seu navegador preferido e aproveite as funcionalidades do site de consultoria.
 
-📝 Dica: Consulte o arquivo README-detalhado.md (se existir) ou comentários no código para mais informações sobre configuração específica.
+📝 Dica: Consulte os comentários no código para mais informações sobre configuração específica.
 Funcionalidades Principais ✨
 
 O site oferece diversas funcionalidades para aprimorar a experiência do usuário:
@@ -88,27 +86,11 @@ O site oferece diversas funcionalidades para aprimorar a experiência do usuári
 Cada funcionalidade foi desenvolvida com foco em usabilidade e estética moderna, tornando a experiência do usuário agradável e intuitiva.
 Estrutura do Projeto 📂
 
-Organizamos o repositório de forma clara para facilitar a manutenção:
-
-    index.php – Página inicial do site (front-end integrado com back-end).
-
-    css/ – Arquivos de estilo CSS.
-
-    js/ – Scripts JavaScript para funcionalidades dinâmicas.
-
-    php/ – Scripts de backend em PHP (login, processamento de formulários, etc.).
-
-    db/ – Scripts de banco de dados (arquivo database.sql).
-
-    python/ – Scripts em Python para processamento de dados ou tarefas auxiliares.
-
-    img/ – Imagens utilizadas no site (logos, ícones, gráficos).
-
-    docs/ – Documentação adicional (incluindo vídeo demonstrativo).
-
-    README.md – Este arquivo de documentação principal.
-
 Vídeo Demonstrativo 🎥
+
+
+https://github.com/user-attachments/assets/06931a70-3d82-4d1c-83a8-950165ad2b93
+
 
 Confira o vídeo demonstrativo para ver todas as funcionalidades em ação! O vídeo está localizado na pasta docs/ do repositório (arquivo demo.mp4). Ele apresenta uma visão geral do sistema, navegação pelas principais páginas e exemplos de uso dos recursos.
 Créditos e Agradecimentos 🏆
