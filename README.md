@@ -1,7 +1,7 @@
 🌟 W1 Consultoria | Site de Consultoria Patrimonial (Hackathon 2025)
 Introdução
 
-Bem-vindo ao repositório do nosso projeto desenvolvido no Hackathon W1 Consultoria 2025! Neste desafio, nossa equipe criou um site de consultoria patrimonial funcional para ajudar você a organizar e visualizar seus investimentos. O projeto é fruto da parceria entre W1 Consultoria, empresa inovadora em gestão de patrimônio, e nossos dedicados desenvolvedores, buscando sempre soluções criativas e eficientes.
+Bem-vindo ao repositório do nosso projeto desenvolvido no Hackathon W1 Consultoria 2025! Neste desafio, nossa equipe criou um site de consultoria patrimonial funcional para ajudar a organizar e visualizar seus investimentos.
 Hackathon W1 Consultoria 2025 🎉
 
     Nome do Hackathon: Desafio W1 Consultoria
